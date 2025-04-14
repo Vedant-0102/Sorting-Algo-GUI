@@ -1,7 +1,7 @@
 
 # Sorting Visualizer (Tkinter GUI Version)
 
-> A Python desktop application built with `tkinter` to visualize sorting algorithms through real-time bar animations. Designed to help users understand how different algorithms work step by step.
+A Python desktop application built with `tkinter` to visualize sorting algorithms through real-time bar animations. Designed to help users understand how different algorithms work step by step.
 
 ---
 
@@ -59,7 +59,7 @@
 ## Screenshots
 
 GUI  
-![Tkinter UI](  )
+![Tkinter UI](https://github.com/user-attachments/assets/55996b91-1801-4f6f-9a98-ca68cfe66d20)
 
 ---
 

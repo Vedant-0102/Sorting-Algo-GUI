@@ -1,4 +1,3 @@
-
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import random
@@ -32,7 +31,7 @@ class SortingVisualizer:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("Ultimate Sorting Visualizer")
+        self.root.title("Sorting Visualizer")
         self.root.configure(bg="#f7f7f7")
 
         self.algorithms = {
