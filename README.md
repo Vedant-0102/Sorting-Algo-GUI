@@ -1,15 +1,15 @@
 
-# 🧠 Sorting Visualizer (Tkinter GUI Version)
+# Sorting Visualizer (Tkinter GUI Version)
 
 > A Python desktop application built with `tkinter` to visualize sorting algorithms through real-time bar animations. Designed to help users understand how different algorithms work step by step.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎨 Real-time animated bar chart visualizations using Tkinter canvas
-- 🔀 Random array generation (12 elements max)
-- 🧮 Supports multiple sorting algorithms:
+- Real-time animated bar chart visualizations using Tkinter canvas
+- Random array generation (12 elements max)
+- Supports multiple sorting algorithms:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
@@ -17,17 +17,17 @@
   - Quick Sort
   - Heap Sort
   - Shell Sort
-- ⏸️ Pause and Resume functionality
-- 🎛️ Adjustable speed control slider
-- 📊 Displays runtime statistics including total swaps and execution time
+- Pause and Resume functionality
+- Adjustable speed control slider
+- Displays runtime statistics including total swaps and execution time
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Vedant-0102/Sorting-Algo-GUI.git
    ```
 
 2. Navigate to the project folder:
@@ -47,7 +47,7 @@
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 - Python 3.8+
 - Libraries:
@@ -56,13 +56,13 @@
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-Tkinter GUI  
+GUI  
 ![Tkinter UI](  )
 
 ---
 
-## 📜 License
+## License
 
 This project is publicly accessible, but the code is not available for reuse or modification.
