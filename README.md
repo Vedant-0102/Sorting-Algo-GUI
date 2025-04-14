@@ -4,6 +4,7 @@
 A Python desktop application built with `tkinter` to visualize sorting algorithms through real-time bar animations. Designed to help users understand how different algorithms work step by step.
 
 Web Version of the Code - https://github.com/Vedant-0102/Sorting-Algo-Web
+
 ---
 
 ## Features
